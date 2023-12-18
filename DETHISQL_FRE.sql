@@ -1,6 +1,7 @@
 ﻿Create database DETHISQL
 Use DETHISQL
 gsdsfsfeg
+xsaddd
 -- Tạo cơ sở dữ liệu như lược đồ đã cho ở trên. Học viên tự định nghĩa kiểu dữ liệu của các cột trong các bảng
 GO
 Create table THONGTIN_CHUXE
